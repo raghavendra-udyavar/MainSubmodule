@@ -1,0 +1,3 @@
+[submodule "SubmoduleTester"]
+	path = SubmoduleTester
+	url = git@github.com:raghavendra-udyavar/SubmoduleTester.git
